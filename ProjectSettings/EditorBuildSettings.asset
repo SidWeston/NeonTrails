@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes - SCOTT BALDWIN - OWEN MORRIS/01.MAIN MENU  - SCOTT BALDWIN.unity
+    guid: 18fe26c68d272e442845c7058e1e3fb2
+  - enabled: 1
+    path: Assets/01.Scenes - SCOTT BALDWIN - OWEN MORRIS/02.CharacterSelection  -
+      SCOTT BALDWIN.unity
+    guid: 26468d49f2d2311468fdc6e269bf1e9e
+  - enabled: 1
+    path: Assets/01.Scenes - SCOTT BALDWIN - OWEN MORRIS/03.Instructions  - SCOTT
+      BALDWIN.unity
+    guid: e4ba35ec0842d424cba408a39f91cdb1
+  - enabled: 1
+    path: Assets/01.Scenes - SCOTT BALDWIN - OWEN MORRIS/05. LoadingScene  - SCOTT
+      BALDWIN.unity
+    guid: 6579e9c89a8dd884daa1d8a990ee1da8
+  - enabled: 1
+    path: Assets/01.Scenes - SCOTT BALDWIN - OWEN MORRIS/04.Level3 - OWEN MORRIS
+      - SCOTT BALDWIN.unity
+    guid: e03c63a14d10b864fbad34548fd6403d
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0cff14cdbb18c904883eb7ccc085f9bc,
+      type: 2}

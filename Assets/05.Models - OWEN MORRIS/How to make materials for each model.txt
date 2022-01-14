@@ -1,0 +1,21 @@
+Applying Textures
+
+First Import the folder of the asset you want to add
+
+Then right click and press unpack model completely
+
+In that folder you imported right click, go to create and then material
+
+Then click the new made material
+
+Then drag the textures that you imported to the different maps 
+
+BaseColour/ Abedo map goes in the Abedo map section
+
+Metallic goes in metalic
+
+Normal goes in normal but you may have to press fix now when imported
+
+Height goes in Height
+
+Then Roughness goes in details
